@@ -1,0 +1,11 @@
+OrderID,OrderDate,CustomerID,Gender,Department,StaffSalary,ProductCategory,Quantity,UnitPrice,Revenue
+1001,01/05/2025,C001,Female,Sales,500,Electronics,2,250,500
+1002,01/07/2025,C002,Male,Support,400,Fashion,3,50,150
+1003,01/10/2025,C003,Female,Sales,,Electronics,1,300,300
+1004,01/12/2025,C004,Male,Marketing,600,Groceries,10,20,200
+1005,1/15/2025,C005,Female,Sales,500,Fashion,2,80,160
+1006,1/20/2025,C006,Male,Support,400,Electronics,5,220,1100
+1007,1/22/2025,C007,Female,Marketing,600,Fashion,1,100,100
+1008,1/25/2025,C008,Male,Sales,500,Groceries,20,15,300
+1009,1/28/2025,C009,Female,Support,400,Fashion,2,60,120
+1010,02/01/2025,C010,Male,Sales,500,Electronics,1,500,500
